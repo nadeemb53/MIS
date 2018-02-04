@@ -1,2 +1,2 @@
 # MIS
-A complete student guide to good grades and growth.
+Android App to access locally hosted GCOEA student portal.

@@ -39,6 +39,8 @@
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="77dp"
+        android:background="@color/colorPrimaryDark"
+        android:textColor="#eee"
         android:text="MIS Portal"
         android:textSize="20dp"/>
 

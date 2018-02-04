@@ -27,7 +27,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
-        android:text="Before enter MIS portal, make sure that you are connected to GCOEA WiFi."
+        android:text="Before entering MIS portal, make sure that you are connected to GCOEA WiFi."
         android:textColor="#eee"
         android:textSize="20dp"
         android:paddingTop="100dp"
